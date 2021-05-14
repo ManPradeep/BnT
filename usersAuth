@@ -2,6 +2,12 @@
 <user id="USR8C47BE3673F3">
 <name>Arun</name>
 <authID>8C47BE3673F3</authID>
-<active>false</active>
+<active>true</active>
 </user>
+<user id="USR2C768ADD8F8B">
+<name>Pradeep</name>
+<authID>2C768ADD8F8B</authID>
+<active>true</active>
+</user>
+
 </users>
