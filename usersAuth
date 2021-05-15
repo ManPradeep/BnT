@@ -19,5 +19,10 @@
 <authID>30D04230B0A6</authID>
 <active>true</active>
 </user>
+<user id="USRSanjeetGupta-PC">
+<name>Sanjeet</name>
+<authID>SanjeetGupta-PC</authID>
+<active>true</active>
+</user>
 
 </users>
