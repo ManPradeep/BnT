@@ -24,5 +24,10 @@
 <authID>30D04230B0D6</authID>
 <active>true</active>
 </user>
+<user id="USR1458D01494DA">
+<name>Anuradha</name>
+<authID>1458D01494DA</authID>
+<active>true</active>
+</user>
 
 </users>
