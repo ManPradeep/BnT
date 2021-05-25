@@ -79,4 +79,11 @@
 <authID>B42E99BA2FF6</authID>
 <active>true</active>
 </user>
+
+<user id="USRAjit-PC">
+<name>Ajit</name>
+<authID>Ajit-PC</authID>
+<active>true</active>
+</user>
+
 </users>
