@@ -89,4 +89,9 @@
 <authID>user-PC</authID>
 <active>true</active>
 </user>
+<user id="USR9825A61BCF33">
+<name>Ankdeep</name>
+<authID>9825A61BCF33</authID>
+<active>true</active>
+</user>
 </users>
