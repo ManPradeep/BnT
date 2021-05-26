@@ -84,5 +84,9 @@
 <authID>B42E99BA2DD1</authID>
 <active>true</active>
 </user>
-
+<user id="USRuser-PC">
+<name>Ankdeep</name>
+<authID>user-PC</authID>
+<active>true</active>
+</user>
 </users>
