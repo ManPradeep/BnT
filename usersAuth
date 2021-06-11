@@ -7,7 +7,7 @@
 <user id="USR2C768ADD8F8B">
 <name>Pradeep</name>
 <authID>2C768ADD8F8B</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR1062E5C5A558">
 <name>Rajkumar</name>
@@ -72,12 +72,12 @@
 <user id="USRFC459630D0DB">
 <name>Ankush</name>
 <authID>FC459630D0DB</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRB42E99BA2FF6">
 <name>Sachin saini</name>
 <authID>B42E99BA2FF6</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRB42E99BA2DD1">
 <name>Ajit</name>
