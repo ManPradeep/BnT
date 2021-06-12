@@ -129,4 +129,10 @@
 <authID>ASUS-GL552VX</authID>
 <active>true</active>
 </user>
+<user id="USRparijat-PC">
+<name>Pratima</name>
+<authID>parijat-PC</authID>
+<active>true</active>
+</user>
+
 </users>
