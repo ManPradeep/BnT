@@ -124,4 +124,9 @@
 <authID>F8B46A71B7AB</authID>
 <active>true</active>
 </user>
+<user id="USRASUS-GL552VX">
+<name>Israfil</name>
+<authID>ASUS-GL552VX</authID>
+<active>true</active>
+</user>
 </users>
