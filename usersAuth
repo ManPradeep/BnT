@@ -134,5 +134,10 @@
 <authID>parijat-PC</authID>
 <active>true</active>
 </user>
+<user id="USRuser-PC1">
+<name>Subir</name>
+<authID>user-PC1</authID>
+<active>true</active>
+</user>
 
 </users>
