@@ -119,5 +119,9 @@
 <authID>00E04C844993</authID>
 <active>true</active>
 </user>
-
+<user id="USRF8B46A71B7AB">
+<name>Moitry</name>
+<authID>F8B46A71B7AB</authID>
+<active>true</active>
+</user>
 </users>
