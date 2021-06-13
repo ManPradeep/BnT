@@ -139,5 +139,10 @@
 <authID>user-PC1</authID>
 <active>true</active>
 </user>
+<user id="USR00266CEF0ABE">
+<name>Khokon</name>
+<authID>00266CEF0ABE</authID>
+<active>true</active>
+</user>
 
 </users>
