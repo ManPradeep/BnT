@@ -144,5 +144,9 @@
 <authID>00266CEF0ABE</authID>
 <active>true</active>
 </user>
-
+<user id="USRuser-PC">
+<name>Rubi</name>
+<authID>user-PC</authID>
+<active>true</active>
+</user>
 </users>
