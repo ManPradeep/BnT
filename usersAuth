@@ -154,4 +154,9 @@
 <authID>DELL-PC</authID>
 <active>true</active>
 </user>
+<user id="USR3024A99CA487">
+<name>Souvik</name>
+<authID>3024A99CA487</authID>
+<active>true</active>
+</user>
 </users>
