@@ -149,4 +149,9 @@
 <authID>user-PC</authID>
 <active>true</active>
 </user>
+<user id="USRDELL-PC">
+<name>Rumki</name>
+<authID>DELL-PC</authID>
+<active>true</active>
+</user>
 </users>
