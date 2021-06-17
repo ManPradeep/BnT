@@ -169,4 +169,9 @@
 <authID>3024A99CA487</authID>
 <active>true</active>
 </user>
+<user id="USRPriTam-PC">
+<name>Pritam</name>
+<authID>PriTam-PC</authID>
+<active>true</active>
+</user>
 </users>
