@@ -185,5 +185,9 @@
 <authID>ACER-PC</authID>
 <active>true</active>
 </user>
-
+<user id="USR54AB3AE5BC7C">
+<name>PERNOY</name>
+<authID>54AB3AE5BC7C</authID>
+<active>true</active>
+</user>
 </users>
