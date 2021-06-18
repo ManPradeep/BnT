@@ -180,4 +180,10 @@
 <authID>PriTam-PC</authID>
 <active>true</active>
 </user>
+<user id="USRACER-PC">
+<name>Pritam p</name>
+<authID>ACER-PC</authID>
+<active>true</active>
+</user>
+
 </users>
