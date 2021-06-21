@@ -19,7 +19,11 @@
 <authID>E06995FC71DA</authID>
 <active>true</active>
 </user>
-
+<user id="USRAditiSingh-VAIO">
+<name>Aditi</name>
+<authID>AditiSingh-VAIO</authID>
+<active>true</active>
+</user>
 <user id="USR1062E5C5A558">
 <name>Rajkumar</name>
 <authID>1062E5C5A558</authID>
