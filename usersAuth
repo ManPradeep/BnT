@@ -224,4 +224,9 @@
 <authID>FCAA148DD378</authID>
 <active>true</active>
 </user>
+<user id="USRUSER-PC">
+<name>mosin</name>
+<authID>USER-PC</authID>
+<active>true</active>
+</user>
 </users>
