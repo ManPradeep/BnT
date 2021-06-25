@@ -224,6 +224,11 @@
 <authID>FCAA148DD378</authID>
 <active>true</active>
 </user>
+<user id="USR7446A079D15E">
+<name>Rakib</name>
+<authID>7446A079D15E</authID>
+<active>true</active>
+</user>
 <user id="USRUSER-PC">
 <name>mosin</name>
 <authID>USER-PC</authID>
