@@ -25,46 +25,45 @@
 <authID>6018952BAE3B</authID>
 <active>true</active>
 </user>
-
 <user id="USRE06995FC71DA">
 <name>shukla</name>
 <authID>E06995FC71DA</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRAditiSingh-VAIO">
 <name>Aditi</name>
 <authID>AditiSingh-VAIO</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR1062E5C5A558">
 <name>Rajkumar</name>
 <authID>1062E5C5A558</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRLAPTOP-1A3RSMUN">
 <name>Pintu</name>
 <authID>LAPTOP-1A3RSMUN</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR503EAA9F6FDF">
 <name>Pintu</name>
 <authID>503EAA9F6FDF</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR30D04230B0A6">
 <name>Manish</name>
 <authID>30D04230B0A6</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR30D04230B0D6">
 <name>Sanjeet</name>
 <authID>30D04230B0D6</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR1458D01494DA">
 <name>Anuradha</name>
 <authID>1458D01494DA</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRA0481C0284AB">
 <name>Praveen</name>
@@ -74,12 +73,12 @@
 <user id="USRA0481C0284CC">
 <name>Pramod</name>
 <authID>A0481C0284CC</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRLAPTOP-PQE24JPN">
 <name>Pramod</name>
 <authID>LAPTOP-PQE24JPN</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR00E04C89823E">
 <name>Arun</name>
@@ -89,17 +88,17 @@
 <user id="USR00256486D424">
 <name>Jitu brother</name>
 <authID>00256486D424</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRE840F22E6789">
 <name>Jitu</name>
 <authID>E840F22E6789</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR0021CCCDC531">
 <name>Roshan</name>
 <authID>0021CCCDC531</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRB82A72A117B0">
 <name>Prakhar</name>
@@ -109,12 +108,12 @@
 <user id="USRFC459630D0DB">
 <name>Ankush</name>
 <authID>FC459630D0DB</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRDESKTOP-PI551LG">
 <name>Ankush Brother</name>
 <authID>DESKTOP-PI551LG</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRB42E99BA2FF6">
 <name>Sachin saini</name>
@@ -124,126 +123,126 @@
 <user id="USRB42E99BA2DD1">
 <name>Ajit</name>
 <authID>B42E99BA2DD1</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR9828A61BCC55">
 <name>Ankdeep</name>
 <authID>9828A61BCC55</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR9828A61BCF33">
 <name>Deepansu</name>
 <authID>9828A61BCF33</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR588A5A1EEFE7">
 <name>sudipta</name>
 <authID>588A5A1EEFE7</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRB42E99B8AB50">
 <name>subir gosh</name>
 <authID>B42E99B8AB50</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR00E04C70DAD3">
 <name>Shahnawaz</name>
 <authID>00E04C70DAD3</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRE0DB55C0A166">
 <name>Debkumar</name>
 <authID>E0DB55C0A166</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR00E04C844993">
 <name>poli</name>
 <authID>00E04C844993</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRF8B46A71B7AB">
 <name>Moitry</name>
 <authID>F8B46A71B7AB</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRASUS-GL552VX">
 <name>Israfil</name>
 <authID>ASUS-GL552VX</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRparijat-PC">
 <name>Pratima</name>
 <authID>parijat-PC</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRuser-PC1">
 <name>Subir</name>
 <authID>user-PC1</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR00266CEF0ABE">
 <name>Khokon</name>
 <authID>00266CEF0ABE</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRuser-PC">
 <name>Rubi</name>
 <authID>user-PC</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRDELL-PC">
 <name>Rumki</name>
 <authID>DELL-PC</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR3024A99CA487">
 <name>Souvik</name>
 <authID>3024A99CA487</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRPriTam-PC">
 <name>Pritam p</name>
 <authID>PriTam-PC</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRACER-PC">
 <name>Pritam p</name>
 <authID>ACER-PC</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR54AB3AE5BC7C">
 <name>PERNOY</name>
 <authID>54AB3AE5BC7C</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRECD68A4F4DEA">
 <name>kunal</name>
 <authID>ECD68A4F4DEA</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR202564D81AD2">
 <name>kunal</name>
 <authID>202564D81AD2</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRDESKTOP-NFM9VBV">
 <name>molay</name>
 <authID>DESKTOP-NFM9VBV</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRFCAA148DD378">
 <name>arnab</name>
 <authID>FCAA148DD378</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USR7446A079D15E">
 <name>Rakib</name>
 <authID>7446A079D15E</authID>
-<active>true</active>
+<active>false</active>
 </user>
 <user id="USRUSER-PC">
 <name>mosin</name>
 <authID>USER-PC</authID>
-<active>true</active>
+<active>false</active>
 </user>
 </users>
