@@ -235,4 +235,10 @@
 <authID>USER-PC</authID>
 <active>false</active>
 </user>
+<user id="USRB42E994BE977">
+<name>Chader-vprompt</name>
+<authID>B42E994BE977</authID>
+<active>true</active>
+</user>
+
 </users>
