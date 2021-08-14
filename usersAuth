@@ -240,5 +240,10 @@
 <authID>B42E994BE977</authID>
 <active>true</active>
 </user>
+<user id="USR902B34C4ADB6">
+<name>Admin-vprompt</name>
+<authID>902B34C4ADB6</authID>
+<active>true</active>
+</user>
 
 </users>
