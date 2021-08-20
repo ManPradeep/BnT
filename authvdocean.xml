@@ -1,0 +1,49 @@
+<users id="comicsmartpanel">
+  <user id="USR3024A99CA487">
+    <name>sudipta-souvic</name>
+    <authID>3024A99CA487</authID>
+    <compname>DigitalOcean</compname>
+    <active>true</active>
+  </user>
+  <user id="USRF8B46A71B7AB">
+    <name>Sudipta-moitry</name>
+    <authID>F8B46A71B7AB</authID>
+    <compname>DigitalOcean</compname>
+    <active>true</active>
+  </user>
+  <user id="USRF8B46A71B7ZZ">
+    <name>sudipta-rubi</name>
+    <authID>F8B46A71B7ZZ</authID>
+    <compname>DigitalOcean</compname>
+    <active>true</active>
+  </user>
+  <user id="USRUSER-PC">
+    <name>sudipta-rubi</name>
+    <authID>USER-PC</authID>
+    <active>true</active>
+  </user>
+  <user id="USR00E04C70DAD3">
+    <name>sudipta-shanawaz</name>
+    <authID>00E04C70DAD3</authID>
+    <compname>DigitalOcean</compname>
+    <active>true</active>
+  </user>
+  <user id="USR588A5A1EEFE7">
+    <name>Sudipta</name>
+    <authID>588A5A1EEFE7</authID>
+    <compname>DigitalOcean</compname>
+    <active>true</active>
+  </user>
+  <user id="USRparijat-PC">
+    <name>Sudipta-promita</name>
+    <authID>parijat-PC</authID>
+    <compname>DigitalOcean</compname>
+    <active>true</active>
+  </user>
+<user id="USRUSER-PC">
+<name>sudipta-rubi</name>
+<authID>USER-PC</authID>
+<compname>DigitalOcean</compname>
+<active>true</active>
+</user>
+</users>
