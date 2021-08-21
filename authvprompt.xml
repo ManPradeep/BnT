@@ -1,4 +1,9 @@
 <users id="comicsmartpanel">
+    <user id="USR6018952BAE3B">
+    <name>Pradeep</name>
+    <authID>6018952BAE3B</authID>
+    <active>true</active>
+  </user>
   <user id="USRB42E994BE977">
     <name>Chader-vprompt</name>
     <authID>B42E994BE977</authID>
