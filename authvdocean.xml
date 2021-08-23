@@ -39,10 +39,22 @@
     <compname>DigitalOcean</compname>
     <active>true</active>
   </user>
- <user id="USRUSER-PC">
+<user id="USRUSER-PC">
 <name>sudipta-rubi</name>
 <authID>USER-PC</authID>
 <compname>DigitalOcean</compname>
+<active>true</active>
+</user>
+  <user id="USRSona-PC">
+<name>sudipta-Sona chaudhary</name>
+<authID>Sona-PC</authID>
+<compname>DigitalOcean</compname>
+<active>true</active>
+</user>
+  <user id="USR00E04C844993">
+<name>sudipta-polo</name>
+<authID>USER-PC</authID>
+<compname>00E04C844993</compname>
 <active>true</active>
 </user>
 </users>
