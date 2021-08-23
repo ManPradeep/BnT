@@ -39,13 +39,7 @@
     <compname>DigitalOcean</compname>
     <active>true</active>
   </user>
-  <user id="USRparijat-PC">
-    <name>Sudipta-promita</name>
-    <authID>parijat-PC</authID>
-    <compname>DigitalOcean</compname>
-    <active>true</active>
-  </user>
-<user id="USRUSER-PC">
+ <user id="USRUSER-PC">
 <name>sudipta-rubi</name>
 <authID>USER-PC</authID>
 <compname>DigitalOcean</compname>
