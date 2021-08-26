@@ -1,4 +1,9 @@
 <users id="comicsmartpanel">
+      <user id="USRA0481C0284AB">
+    <name>Praveen</name>
+    <authID>A0481C0284AB</authID>
+    <active>true</active>
+  </user>
     <user id="USR6018952BAE3B">
     <name>Pradeep</name>
     <authID>6018952BAE3B</authID>
