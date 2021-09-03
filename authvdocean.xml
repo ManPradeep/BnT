@@ -53,8 +53,14 @@
 </user>
   <user id="USR00E04C844993">
 <name>sudipta-polo</name>
-<authID>USER-PC</authID>
-<compname>00E04C844993</compname>
+<authID>00E04C844993</authID>
+<compname>DigitalOcean</compname>
+<active>true</active>
+</user>
+    <user id="USR588A5A1EEFE7">
+<name>sudipta-sudip</name>
+<authID>588A5A1EEFE7</authID>
+<compname>DigitalOcean</compname>
 <active>true</active>
 </user>
 </users>
